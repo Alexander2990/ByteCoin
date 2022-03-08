@@ -13,3 +13,5 @@ Apply the skills learned in the previous Clima tutorial and build a bitcoin pric
 ### Моя цель
 
 Применить навыки, полученные в предыдущем учебном пособии Clima, и создать приложение с отображением цен на биткойны. Использовать URLSession для выполнения HTTP-запросов и JSONDecoder для анализа JSON.
+
+<img src="https://user-images.githubusercontent.com/64682381/157245075-fecc127c-a300-404c-8f64-8beb5053e892.png" width="500">
