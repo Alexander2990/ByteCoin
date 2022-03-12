@@ -1,5 +1,7 @@
 # ByteCoin
 
+### The App Brewery Complete App Development course project. 
+
 Bitcoin rate ticker. The app provides the latest bitcoin prices in all popular traded currencies.
 
 ### My goal
@@ -7,6 +9,8 @@ Bitcoin rate ticker. The app provides the latest bitcoin prices in all popular t
 Apply the skills learned in the previous Clima tutorial and build a bitcoin price display app. Use URLSession to make HTTP requests and JSONDecoder to parse JSON.
 
 -------------------------------------------------
+
+### Учебный проект в рамках курса The App Brewery Complete App Development.
 
 Тикер курса биткойна. Приложение предоставляет последние цены на биткойны во всех популярных торгуемых валютах.
 
